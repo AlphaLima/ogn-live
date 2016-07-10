@@ -261,6 +261,7 @@ $aero = array (		// code OACI => FullName , geographic bounds, airfield altitude
 	'LFHV'=> array('VILLEFRANCHE Tarare',"l.rec='LFHV' AND l.alt < 1028 AND (l.lat BETWEEN 45.91153 AND 45.92603 ) AND (l.lon BETWEEN 4.62766 AND 4.64318 )",328,''),
 	'LFNF'=> array('VINON',"l.rec='LFNF' AND l.alt < 975 AND (l.lat BETWEEN 43.7304 AND 43.74654 ) AND (l.lon BETWEEN 5.77138 AND 5.79678)",275,''),	
 	'EDEW'=> array('WALLDURN',"l.rec='EDEW' AND l.alt < 1103 AND (l.lat BETWEEN 49.577 AND 49.586 ) AND (l.lon BETWEEN 9.389 AND 9.412)",403,''),
+	'EDER'=> array('Wasserkuppe',"l.rec='EDER' AND l.alt < 1005 AND (l.lat BETWEEN 50.490 AND 50.500 ) AND (l.lon BETWEEN 9.947 AND 9.950)",905,''),
 	'EBWE'=> array('WEELDE',"l.rec='EBWE' AND l.alt < 732 AND (l.lat BETWEEN 51.38047 AND 51.40757 ) AND (l.lon BETWEEN 4.9221 AND 4.99471)",32,''),
 	'EDQW'=> array('WEIDEN-OPF',"l.rec='EDQW' AND l.alt < 1105 AND (l.lat BETWEEN 49.67523 AND 49.68242 ) AND (l.lon BETWEEN 12.11198 AND 12.12167)",405,''),
 	'EDNW'=> array('WEISSENHORN',"l.rec='EDNW' AND l.alt < 1200 AND (l.lat BETWEEN 48.28667 AND 48.29147 ) AND (l.lon BETWEEN 10.12956 AND 10.1494)",500,''),
